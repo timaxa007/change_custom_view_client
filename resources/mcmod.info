@@ -1,0 +1,16 @@
+[
+{
+  "modid": "change_custom_view_client",
+  "name": "Change Custom View Client Mod",
+  "description": "",
+  "version": "1.753",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["timaxa007"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

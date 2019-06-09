@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: timaxa007.change_custom_view_client.hook.ExampleHookLoader
+FMLCorePluginContainsFMLMod: true
+Created-By: 1.7.0 (Oracle Corporation)
